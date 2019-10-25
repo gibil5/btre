@@ -23,6 +23,9 @@ urlpatterns = [
 
 	path('', include('pages.urls')),
 
+	path('listing/', include('listings.urls')),
+
+
     path('admin/', admin.site.urls),  	# A Path linked to a url file 
 
 ]

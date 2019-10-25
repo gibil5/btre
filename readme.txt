@@ -20,3 +20,7 @@ python manage.py runserver
 
 python manage.py collectstatic 
 
+python manage.py startapp listings 
+
+python manage.py startapp realtors 
+
