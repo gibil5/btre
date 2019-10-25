@@ -15,3 +15,8 @@ django-admin startproject btre .
 Creates the the project and manage.py
 
 python manage.py help
+
+python manage.py runserver 
+
+python manage.py collectstatic 
+
