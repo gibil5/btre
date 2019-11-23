@@ -24,6 +24,14 @@ python manage.py startapp realtors
 python manage.py migrate
 
 
+# Create Super User
+python manage.py createsuperuser 
+admin_user
+admin_user
+
+
+
+
 
 Pip
 ----
